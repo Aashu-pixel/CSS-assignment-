@@ -1,0 +1,138 @@
+body {
+    color: rgb(61, 33, 52);
+}
+
+body {
+    background-color: lightgray;
+}
+ 
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.text {
+    font-style: italic;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+h1 {
+    letter-spacing: 2px;
+}
+
+.text {
+    line-height: 1.6;
+}
+
+.box {
+    width: 400px;
+}
+
+.box {
+    height: 200px;
+}
+
+.box {
+    margin: 30px;
+}
+
+.box {
+    padding: 20px;
+}
+
+.box {
+    border: 2px solid black;
+}
+
+.box {
+    border-radius: 10px;
+}
+.box {
+    box-shadow: 5px 5px 15px gray;
+}
+
+.box {
+    opacity: 0.9;
+}
+
+.card {
+    display: block;
+}
+
+.card {
+    position: relative;
+}
+
+.card {
+    top: 10px;
+}
+
+.card {
+    left: 10px;
+}
+
+.box {
+    overflow: auto;
+}
+
+button {
+    cursor: pointer;
+}
+
+.card {
+    background-image: url("Childhood.jpg");
+}
+
+.card {
+    background-size: cover;
+}
+
+.card {
+    background-position: center;
+}
+
+.card {
+    display: flex;
+}
+.card {
+    flex-direction: column;
+}
+
+.card {
+    justify-content: center;
+}
+
+.card {
+    align-items: center;
+}
+
+.card {
+    gap: 10px;
+}
+
+.card {
+    max-width: 600px;
+}
+
+button {
+    transition: 0.3s;
+}
+
